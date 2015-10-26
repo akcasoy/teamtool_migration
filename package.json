@@ -1,0 +1,9 @@
+{
+  "name": "teamtool_migration",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "mongodb": "~1.4.34",
+    "requirejs": "^2.1.20"
+  }
+}

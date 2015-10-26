@@ -1,0 +1,2 @@
+first export ideas collection to the file teamtool-ideas
+then in terminal: mongoimport --db teamtool-migration --collection ideas --file teamtool-ideas
